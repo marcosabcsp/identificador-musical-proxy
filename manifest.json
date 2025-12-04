@@ -1,0 +1,9 @@
+{
+  "name": "Identificador Musical Proxy",
+  "short_name": "Proxy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#39FF14",
+  "description": "Proxy open source para busca de links do Spotify no app Identificador Musical."
+}
